@@ -5,3 +5,5 @@
 5. 启动app1：cd packages/app1 && yarn start
 6. 启动app2：cd packages/app2 && yarn start
 7. 打开浏览器访问： localhost:9000
+
+> `lerna run start` 可同时启动四个项目
